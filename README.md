@@ -2,7 +2,7 @@
 
 My personal portfolio showcasing software development projects and technical skills.
 
-🌐 **Live Demo:** [https://suhailaaliyar.github.io/My-Portfolio/](https://suhailaaliyar.github.io/My-Portfolio/)
+🌐 **Live Demo:** [https://suhailaaliyar.github.io/portfolio/](https://suhailaaliyar.github.io/portfolio/)
 
 ---
 
