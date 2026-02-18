@@ -6,7 +6,7 @@ function Home() {
     <div className="hero" id="home">
       <div className="hero-center">
         <div className="hero-image-large">
-          <img src="/profile.jpg" alt="Suhaila Aliyar" />
+          <img src="profile.jpg" alt="Suhaila Aliyar" />
         </div>
         
         <h1 className="hero-name">{resumeData.hero.name}</h1>
